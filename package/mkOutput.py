@@ -8,7 +8,8 @@ def mkOutputDir(path:str):
         print('建立資料夾')
         mkdir(path+"\output")
     else:
-        print("資料夾已存在")
+        # print("資料夾已存在")
+        pass
 
     return path+'\output'
 

@@ -1,0 +1,57 @@
+<svg width="330" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_5">
+   <polyline id="svg_1" points="30,96 50,96 " fill="none" stroke="#880000" stroke-linecap="round" stroke-width="1.5"/>
+   <polyline id="svg_2" points="35,104 45,104 " fill="none" stroke="#880000" stroke-linecap="round" stroke-width="1.5"/>
+   <path id="svg_3" d="m40,80l0,15" fill="none" stroke="#880000" stroke-width="1.5"/>
+   <path id="svg_4" d="m40,120l0,-15" fill="none" stroke="#880000" stroke-width="1.5"/>
+  </g>
+  <polyline id="svg_6" points="60,40 65,40 68,35 73,45 78,35 82,45 87,35 92,45 95,40 100,40 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_11" points="60,150 65,150 68,145 73,155 78,145 82,155 87,145 92,155 95,150 100,150 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_7" points="140,40 145,40 148,35 153,45 158,35 162,45 167,35 172,45 175,40 180,40 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_8" points="220,40 225,40 228,35 233,45 238,35 242,45 247,35 252,45 255,40 260,40 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_10" points="220,150 225,150 228,145 233,155 238,145 242,155 247,145 252,155 255,150 260,150 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_9" points="120,80 120,85 125,88 115,93 125,98 115,102 125,107 115,112 120,115 120,120 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <polyline id="svg_14" points="200,80 200,85 205,88 195,93 205,98 195,102 205,107 195,112 200,115 200,120 " fill="none" stroke="#880000" stroke-width="1.5"/>
+  <g id="svg_19">
+   <polyline id="svg_15" points="270,96 290,96 " fill="none" stroke="#880000" stroke-linecap="round" stroke-width="1.5"/>
+   <polyline id="svg_16" points="275,104 285,104 " fill="none" stroke="#880000" stroke-linecap="round" stroke-width="1.5"/>
+   <path id="svg_17" d="m280,80l0,15" fill="none" stroke="#880000" stroke-width="1.5"/>
+   <path id="svg_18" d="m280,120l0,-15" fill="none" stroke="#880000" stroke-width="1.5"/>
+  </g>
+  <text x="80" y="30" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_7">30Ω</text>
+  <text x="160" y="30" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_8" stroke="null">10Ω</text>
+  <text x="240" y="30" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_9" stroke="null">4Ω</text>
+  <polyline id="s_10" fill="none" stroke="#000000" stroke-width="1.5" points="40,80 40,40 40,40 60,40"/>
+  <polyline id="s_11" fill="none" stroke="#000000" stroke-width="1.5" points="260,40 280,40 280,40 280,80"/>
+  <polyline id="s_12" fill="none" stroke="#000000" stroke-width="1.5" points="40,120 40,150 40,150 60,150"/>
+  <polyline id="s_13" fill="none" stroke="#000000" stroke-width="1.5" points="100,150 120,150 120,150 120,120"/>
+  <polyline id="s_14" fill="none" stroke="#000000" stroke-width="1.5" points="120,80 120,40"/>
+  <polyline id="s_16" fill="none" stroke="#000000" stroke-width="1.5" points="100,40 140,40"/>
+  <polyline id="s_17" fill="none" stroke="#000000" stroke-width="1.5" points="180,40 220,40"/>
+  <polyline id="s_18" fill="none" stroke="#000000" stroke-width="1.5" points="200,80 200,40"/>
+  <polyline id="s_19" fill="none" stroke="#000000" stroke-width="1.5" points="200,120 200,150 200,150 220,150"/>
+  <polyline id="s_20" fill="none" stroke="#000000" stroke-width="1.5" points="260,150 280,150 280,150 280,120"/>
+  <g id="s_24">
+   <circle id="s_23" r="3" cx="120" cy="40" fill="#000000" stroke="#000000"/>
+  </g>
+  <g id="s_26">
+   <circle id="s_25" r="3" cx="200" cy="40" fill="#000000" stroke="#000000"/>
+  </g>
+  <g id="s_28">
+   <circle id="s_27" r="3" cx="200" cy="150" fill="#000000" stroke="#000000"/>
+  </g>
+  <g id="s_22">
+   <circle id="s_21" r="3" cx="280" cy="40" fill="#000000" stroke="#000000"/>
+  </g>
+  <text x="290" y="40" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_30" stroke="null">a</text>
+  <text id="s_2" x="190" y="160" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" stroke="null">b</text>
+  <text x="21" y="91" id="svg_20" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black">20V</text>
+  <text x="80" y="173" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_5">10Ω</text>
+  <text x="240" y="171" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_6">1Ω</text>
+  <text x="307" y="105" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_1">20V</text>
+  <text x="219" y="104" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_4">5Ω</text>
+  <text x="144" y="106" stroke="null" font-family="Arial" font-size="11pt" text-anchor="middle" fill="black" id="s_3">20Ω</text>
+ </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="250" height="130" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <path id="Li9" d="m230,100l-9.27184,3.74607l7.27184,-3.74607l-7.27184,-3.74607l9.27184,3.74607l-190,0" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <polyline id="Li5" points="40,60 80,60 80,60 80,100 " stroke-width="1.5" stroke="#0000ff" fill="none"/>
+  <polyline id="Li6" points="80,100 120,100 120,100 120,60 " stroke-width="1.5" stroke="#0000ff" fill="none"/>
+  <polyline id="Li7" points="120,60 160,60 160,60 160,100 " stroke-width="1.5" stroke="#0000ff" fill="none"/>
+  <polyline id="Li8" points="160,100 200,100 200,100 200,60 " stroke-width="1.5" stroke="#0000ff" fill="none"/>
+  <path id="Li10" d="m40,20l3.74607,9.27184l-3.74607,-7.27184l-3.74607,7.27184l3.74607,-9.27184l0,80" stroke-width="1.5" stroke="#000000" fill="none"/>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_1" y="102" x="238">t</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_2" y="14" x="40">v</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_3" y="63" x="21">10V</text>
+  <g id="s_4">
+   <polyline id="Li11" points="60,95 60,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li12" points="80,95 80,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li13" points="100,95 100,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li14" points="120,95 120,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li15" points="140,95 140,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li16" points="160,95 160,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li17" points="180,95 180,105 " stroke="#000000" fill="none"/>
+   <polyline id="Li18" points="200,95 200,105 " stroke="#000000" fill="none"/>
+  </g>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_5" y="118" x="80">4</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_6" y="118" x="120">8</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_7" y="118" x="160">12</text>
+  <text fill="#0000ff" font-size="14" text-anchor="middle" font-family="serif" stroke="null" id="s_8" y="118" x="200">16</text>
+ </g>
+</svg>
