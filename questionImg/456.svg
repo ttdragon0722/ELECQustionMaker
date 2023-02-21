@@ -1,0 +1,100 @@
+<svg width="240" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <polyline points="217,48 227,48 222,48 222,43 222,53 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_60"/>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_41" y="78" x="228">
+   <tspan fill="#000000" font-size="11pt" id="svg_42">6V</tspan>
+   <tspan fill="#000000" font-size="10pt" dy="2" id="svg_43"/>
+  </text>
+  <polyline points="218.5,92.5 228.5,92.5 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_67"/>
+  <g id="svg_10">
+   <polyline stroke-width="1.5" stroke="#880000" fill="none" points="210,50 210,55 215,58 205,63 215,68 205,72 215,77 205,82 210,85 210,90 " id="svg_9"/>
+  </g>
+  <g id="svg_25">
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="220,124 200,124 " id="svg_21"/>
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="215,116 205,116 " id="svg_22"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m210,140l0,-15" id="svg_23"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m210,100l0,15" id="svg_24"/>
+  </g>
+  <g id="svg_20">
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="150,124 130,124 " id="svg_16"/>
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="145,116 135,116 " id="svg_17"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m140,140l0,-15" id="svg_18"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m140,100l0,15" id="svg_19"/>
+  </g>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_50" y="76" x="160">
+   <tspan fill="#000000" font-size="11pt" id="svg_51">V</tspan><tspan fill="#000000" font-size="8pt" dy="2" id="svg_52">A</tspan>
+  </text>
+  <g id="svg_8">
+   <polyline stroke-width="1.5" stroke="#880000" fill="none" points="140,50 140,55 145,58 135,63 145,68 135,72 145,77 135,82 140,85 140,90 " id="svg_7"/>
+  </g>
+  <g id="svg_6">
+   <polyline stroke-width="1.5" stroke="#880000" fill="none" points="160,30 165,30 168,25 173,35 178,25 182,35 187,25 192,35 195,30 200,30 " id="svg_5"/>
+  </g>
+  <polyline points="151,91 161,91 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_70"/>
+  <polyline points="150,51 160,51 155,51 155,46 155,56 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_71"/>
+  <polyline points="195.5,19 205.5,19 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_68"/>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_47" y="20" x="178.5">
+   <tspan fill="#000000" font-size="11pt" id="svg_48">3V</tspan>
+  </text>
+  <polyline points="152.5,17 162.5,17 157.5,17 157.5,12 157.5,22 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_59"/>
+  <g id="svg_4">
+   <polyline stroke-width="1.5" stroke="#880000" fill="none" points="70,150 75,150 78,145 83,155 88,145 92,155 97,145 102,155 105,150 110,150 " id="svg_3"/>
+  </g>
+  <g id="svg_2">
+   <polyline stroke-width="1.5" stroke="#880000" fill="none" points="60,30 65,30 68,25 73,35 78,25 82,35 87,25 92,35 95,30 100,30 " id="svg_1"/>
+  </g>
+  <polyline points="97,19 107,19 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_69"/>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_44" y="21" x="79.5">
+   <tspan fill="#000000" font-size="11pt" id="svg_45">5V</tspan>
+   <tspan fill="#000000" font-size="10pt" dy="2" id="svg_46"/>
+  </text>
+  <polyline points="53,18.5 63,18.5 58,18.5 58,13.5 58,23.5 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_58"/>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_53" y="170.5" x="92.5">
+   <tspan fill="#000000" font-size="11pt" id="svg_54">V</tspan><tspan fill="#000000" font-size="8pt" dy="2" id="svg_55">B</tspan>
+  </text>
+  <polyline points="50,60 50,30 50,30 60,30" stroke-width="1.5" stroke="#000000" fill="none" id="svg_72"/>
+  <polyline points="100,30 160,30" stroke-width="1.5" stroke="#000000" fill="none" id="svg_73"/>
+  <polyline points="140,50 140,30" stroke-width="1.5" stroke="#000000" fill="none" id="svg_74"/>
+  <polyline points="200,30 210,30 210,30 210,50" stroke-width="1.5" stroke="#000000" fill="none" id="svg_75"/>
+  <polyline points="210,90 210,100" stroke-width="1.5" stroke="#000000" fill="none" id="svg_76"/>
+  <polyline points="140,90 140,100" stroke-width="1.5" stroke="#000000" fill="none" id="svg_77"/>
+  <polyline points="110,150 210,150 210,150 210,140" stroke-width="1.5" stroke="#000000" fill="none" id="svg_78"/>
+  <polyline points="70,150 50,150 50,150 50,100" stroke-width="1.5" stroke="#000000" fill="none" id="svg_79"/>
+  <polyline points="140,150 140,140" stroke-width="1.5" stroke="#000000" fill="none" id="svg_80"/>
+  <g id="svg_84">
+   <circle stroke="#000000" fill="#000000" cy="30" cx="140" r="3" id="svg_83"/>
+  </g>
+  <g id="svg_15">
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="40,76 60,76 " id="svg_11"/>
+   <polyline stroke-width="1.5" stroke-linecap="round" stroke="#880000" fill="none" points="45,84 55,84 " id="svg_12"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m50,60l0,15" id="svg_13"/>
+   <path stroke-width="1.5" stroke="#880000" fill="none" d="m50,100l0,-15" id="svg_14"/>
+  </g>
+  <g id="svg_82">
+   <circle stroke="#000000" fill="#000000" cy="150" cx="140" r="3" id="svg_81"/>
+  </g>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_29" y="87" x="20">
+   <tspan fill="#000000" font-size="11pt" id="svg_30">20V</tspan>
+   <tspan fill="#000000" font-size="10pt" dy="2" id="svg_31"/>
+  </text>
+  <polyline points="34,99 44,99 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_63"/>
+  <polyline points="35,60 45,60 40,60 40,55 40,65 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_57"/>
+  <polyline points="195,140 205,140 200,140 200,135 200,145 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_61"/>
+  <polyline points="193,105 203,105 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_66"/>
+  <text text-anchor="middle" font-family="Arial" stroke="null" id="svg_35" y="128" x="187">
+   <tspan fill="#000000" font-size="11pt" id="svg_36">4V</tspan>
+   <tspan fill="#000000" font-size="10pt" dy="2" id="svg_37"/>
+  </text>
+  <polyline points="124,140 134,140 129,140 129,135 129,145 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_62"/>
+  <polyline points="125,106 135,106 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_65"/>
+  <text fill="black" text-anchor="middle" font-family="Arial" stroke="null" id="svg_38" y="127" x="114">
+   <tspan fill="#000000" font-size="11pt" id="svg_39">1V</tspan>
+   <tspan fill="#000000" font-size="10pt" dy="2" id="svg_40"/>
+  </text>
+  <polyline points="107.5,161 117.5,161 112.5,161 112.5,156 112.5,166 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_56"/>
+  <polyline points="63,159 73,159 " stroke-width="1.5" stroke="#FF0000" fill="none" id="svg_64"/>
+  <g id="select_g"/>
+ </g>
+</svg>
